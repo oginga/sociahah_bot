@@ -1,10 +1,10 @@
-#Sociahah_bot
+# Sociahah_bot
 Make honest anonymous comments/remarks to your friends on telegram and messenger.
 At work and with friends:
 
 - Get an audit of how they view you 
 
-##Features
+## Features
 - Send anonymous text to users **REGISTERED ** with the bot [sociahah](https://t.me/sociahah_bot) on Telegram. *Messenger bot is under development*
 - Block anons who drive you nuts
 
