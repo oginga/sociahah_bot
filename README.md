@@ -13,7 +13,7 @@ At work and with friends:
 - Get an audit of how they view you 
 
 ## Features
-- Send anonymous text to users **REGISTERED ** with the bot [sociahah](https://t.me/sociahah_bot) on Telegram. *Messenger bot is under development*
+- Send anonymous text to users **REGISTERED** with the bot [sociahah](https://t.me/sociahah_bot) on Telegram. *Messenger bot is under development*
 - Block anons who drive you nuts
 
 
