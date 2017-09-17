@@ -1,4 +1,12 @@
-# Sociahah_bot
+
+<h1 align="center">
+  <br>
+  <a href=""><img src="docs/bot_pic.png" alt="Markdownify" width="200"></a>
+  <br>
+ 	Sociahah
+  <br>
+</h1>
+
 Make honest anonymous comments/remarks to your friends on telegram and messenger.
 At work and with friends:
 
