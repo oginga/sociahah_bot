@@ -1,4 +1,4 @@
-certifi==2016.9.26
+certifi==2022.12.7
 django-redis-cache==1.7.1
 requests==2.2.1
 Django==1.10.4
